@@ -17,9 +17,9 @@
 }
 
 \arguments{
-  \item{n.genes} The number of genes (parameters) of each individual
+  \item{n.genes}{The number of genes (parameters) of each individual
   (experimental set-up). The number of genes (parameters) will be asked
-  if no argument is given.
+  if no argument is given.}
 }
 
 \value{
