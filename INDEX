@@ -1,0 +1,13 @@
+chooseparents           Choose parent generations
+crossover               Perform crossover
+genomestruc             Genome structure definition
+mutation                Perform mutation
+newgen                  New generation
+nextgen                 Next generation
+plotevolution.fit       Plot the evolution of the fitness of an
+                        optimization.
+plotevolution.gene      Plot the evolution of the alleles of one gene
+                        for an optimization.
+plotfreq.allele         Plot a histogram of the allele frequences.
+seao.terminology        Short overview of terminology
+selectparents           Select the parents to mate
